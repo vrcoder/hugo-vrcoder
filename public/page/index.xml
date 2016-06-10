@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on 观山的世界</title>
+    <link>http://vrcoder.github.io/page/</link>
+    <description>Recent content in Pages on 观山的世界</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Jun 2016 13:12:50 +0800</lastBuildDate>
+    <atom:link href="http://vrcoder.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>关于我</title>
+      <link>http://vrcoder.github.io/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
+      <pubDate>Wed, 08 Jun 2016 13:12:50 +0800</pubDate>
+      
+      <guid>http://vrcoder.github.io/%E5%85%B3%E4%BA%8E%E6%88%91/</guid>
+      <description>
+
+&lt;h1 id=&#34;个人简介&#34;&gt;个人简介&lt;/h1&gt;
+
+&lt;p&gt;官山山
+哈尔滨工业大学&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://vrcoder.github.io/privacy-policy/</link>
+      <pubDate>Tue, 15 Mar 2016 18:21:33 -0700</pubDate>
+      
+      <guid>http://vrcoder.github.io/privacy-policy/</guid>
+      <description>&lt;p&gt;Privacy policy here.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

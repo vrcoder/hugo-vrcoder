@@ -20,7 +20,7 @@ theme                   = "hugo-phlat-theme"
 [[menu.header]]
     name                = "About"
     weight              = 3
-    url                 = "/about/"
+    url                 = "/关于我/"
 
 # The footer menu will appear as an inline-list at the bottom left of the footer found at the bottom of the screen
 [[menu.footer]]
@@ -41,9 +41,9 @@ theme                   = "hugo-phlat-theme"
 
 # Social media icons and links that appear in the footer
 [social]
-    twitter             = "https://www.twitter.com/NAME_HERE"
+    twitter             = "https://www.twitter.com/GuanShanVIP"
     googleplus          = "https://plus.google.com/NAME_HERE"
-    linkedin            = "https://www.linkedin.com/in/NAME_HERE"
+    linkedin            = "https://cn.linkedin.com/in/guanshanshan"
     youtube             = "https://www.youtube.com/users/NAME_HERE"
     paypal              = "https://paypal.me/NAME_HERE"
     instagram           = ""
