@@ -38,7 +38,7 @@ title = "rtmp服务器搭建以及推流程序demo"
 
 ## 推流demo
 
-[代码来自雷霄骅博士的博客](http://blog.csdn.net/leixiaohua1020/article/details/47056051)
+[代码来自雷霄骅博士的博客](http://blog.csdn.net/leixiaohua1020/article/details/39803457)
 
 ```c++
 /**
